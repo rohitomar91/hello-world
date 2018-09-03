@@ -1,2 +1,6 @@
 # hello-world
-Trying my hands with GIT
+Hi All,
+
+Leanring how to use git from scratch?
+
+
